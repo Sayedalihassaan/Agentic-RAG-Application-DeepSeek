@@ -1,0 +1,32 @@
+# Core Dependencies - Compatible with Python 3.13
+crewai>=1.9.0
+crewai-tools>=0.36.0
+streamlit>=1.40.0
+python-dotenv>=1.0.0
+
+# AI/ML Libraries
+openai>=1.80.0
+groq>=0.18.0
+
+# LangChain Ecosystem
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.2.0
+langchain-huggingface>=0.1.0
+
+# Search and Web Tools
+tavily-python>=0.5.0
+
+# PDF Processing
+pdfplumber>=0.11.0
+pypdf>=5.0.0
+pdfminer.six>=20231228
+
+# Vector Database and Embeddings
+chromadb>=1.1.0
+sentence-transformers>=3.0.0
+
+# Utilities
+requests>=2.32.0
+beautifulsoup4>=4.13.0
+tqdm>=4.65.0
